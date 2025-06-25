@@ -1,6 +1,6 @@
 {
-    "name": "nordigen/nordigen-php",
-    "description": "Nordigen official API client for PHP",
+    "name": "johnyfernandes/nordigen-php",
+    "description": "Updated Nordigen API client for PHP 8+",
     "type": "library",
     "authors": [
         {
@@ -9,7 +9,7 @@
             "homepage": "https://nordigen.com"
         }
     ],
-    "homepage": "https://nordigen.com",
+    "homepage": "https://github.com/johnyfernandes/nordigen-php",
     "license": "MIT",
     "keywords": [
         "nordigen",
